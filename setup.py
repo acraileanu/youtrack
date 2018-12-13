@@ -62,7 +62,7 @@ else:
         print("  failed!")
 
 setup(
-    name='dohq-youtrack',
+    name='test-dohq-youtrack',
     version=version,
     license='MIT License',
     description='YouTrack Python 3 Client Library',
